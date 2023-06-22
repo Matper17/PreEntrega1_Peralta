@@ -28,3 +28,8 @@ function App() {
 }
 
 export default App;
+
+
+//En resumen, Fetch es una API nativa del navegador que es más liviana y minimalista, 
+//mientras que Axios es una biblioteca de terceros con una API más completa y funcionalidades adicionales. 
+//La elección entre Fetch y Axios dependerá de las necesidades y preferencias específicas de cada proyecto. 
