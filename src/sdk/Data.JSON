@@ -1,0 +1,23 @@
+[
+    {"id": 1, "nameProduct": "Moto", "type": "Motovehiculo", "desc": "Alta gama", "marca": "BMW Gs1200", "price": "35000 Usd", "img":"../../public/Img/BMW-R-1200-GS.jpg", "quantity": 1},
+    {"id": 2, "nameProduct": "Moto", "type": "Motovehiculo", "desc": "Alta gama", "marca": "Triumph street triple", "price": "25000 Usd", "img":"../../public/Img/triumph-street-triple.jpg", "quantity": 1},
+    {"id": 3, "nameProduct": "Moto", "type": "Motovehiculo", "desc": "Gama media", "marca": "Benelli leoncino 500", "price": "9000 Usd", "img":"../../public/Img/leoncino-500.jpg", "quantity": 1},
+    {"id": 4, "nameProduct": "Moto", "type": "Motovehiculo", "desc": "Gama media", "marca": "Benelli 302r", "price": "7000 Usd", "img":"../../public/Img/benelli-302-r.jpg", "quantity": 1},
+    {"id": 5, "nameProduct": "Moto"," type": "Motovehiculo", "desc": "Gama media", "marca": "Honda twister 300", "price": "5000 Usd", "img":"../../public/Img/honda-300.jpg", "quantity": 1},
+    {"id": 6, "nameProduct": "Moto"," type": "Motovehiculo", "desc": "Gama baja", "marca": "Honda cg titan", "price": "3000 Usd", "img":"../../public/Img/Honda-CG-titan.jpg", "quantity": 1},
+    {"id": 7, "nameProduct": "Moto"," type": "Motovehiculo", "desc": "Gama baja", "marca": "Honda glh", "price": "2000 Usd", "img":"../../public/Img/honda-glh.jpg", "quantity": 1},
+    {"id": 8, "nameProduct": "Moto"," type": "Motovehiculo", "desc": "Gama baja", "marca": "Yamaha crypton", "price": "1500 Usd", "img":"../../public/Img/yamaha-crypton.jpg", "quantity": 1},
+    {"id": 9, "nameProduct": "Moto"," type": "Motovehiculo", "desc": "Alta gama", "marca": "BMW 1000rr", "price": "55000 Usd", "img":"../../public/Img/bmw-1000-rr.jpg", "quantity": 1},
+    {"id": 10, "nameProduct": "Moto", "type": "Motovehiculo", "desc": "Gama media", "marca": "Yamaha Fz 250", "price": "6000 Usd", "img":"../../public/Img/yamaha-fz-250.jpg", "quantity": 1},
+    {"id": 11, "nameProduct": "Auto", "type": "Automovil", "desc": "Alta gama", "marca": "BMW 430i", "price": "60000 Usd", "img":"../../public/Img/bmw_430i.jpg", "quantity": 1},
+    {"id": 12, "nameProduct": "Auto", "type": "Automovil", "desc": "Alta gama", "marca": "Mercedes Benz Clase A", "price": "65000 Usd", "img":"../../public/Img/mercedes-benz-claseA.jpg", "quantity": 1},
+    {"id": 13, "nameProduct": "Auto", "type": "Automovil", "desc": "Alta gama", "marca": "Audi R8", "price": "100000 Usd", "img":"../../public/Img/audi-r8.jpg", "quantity": 1},
+    {"id": 14, "nameProduct": "Auto", "type": "Automovil", "desc": "Alta gama", "marca": "Ford Mondeo", "price": "40000 Usd", "img":"../../public/Img/ford-mondeo.jpg", "quantity": 1},
+    {"id": 15, "nameProduct": "Auto", "type": "Automovil", "desc": "Alta gama", "marca": "Ford Ranger", "price": "75000 Usd", "img":"../../public/Img/FORD-RANGER.jpg", "quantity": 1},
+    {"id": 16, "nameProduct": "Auto", "type": "Automovil", "desc": "Alta gama", "marca": "Toyota Hilux", "price": "50000 Usd", "img":"../../public/Img/toyota-hilux.jpg", "quantity": 1},
+    {"id": 17, "nameProduct": "Auto", "type": "Automovil", "desc": "Alta gama", "marca": "Renault Megane RS", "price": "55000 Usd", "img":"../../public/Img/renault-megane-rs.jpg", "quantity": 1},
+    {"id": 18, "nameProduct": "Auto", "type": "Automovil", "desc": "Alta gama", "marca": "Honda Civic", "price": "24000 Usd", "img":"../../public/Img/honda-civic.jpg", "quantity": 1},
+    {"id": 19, "nameProduct": "Auto", "type": "Automovil", "desc": "Alta gama", "marca": "Subaru Impreza", "price": "65000 Usd", "img":"../../public/Img/SUBARU-IMPREZA.jpg", "quantity": 1},
+    {"id": 20, "nameProduct": "Auto","type": "Automovil", "desc": "Alta gama", "marca": "Peugeot RCZ", "price": "35000 Usd", "img":"../../public/Img/peugeot-rcz.jpg", "quantity": 1}
+]
+
